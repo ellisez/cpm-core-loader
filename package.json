@@ -63,7 +63,7 @@
   ],
   "license": "MIT",
   "main": "index.js",
-  "name": "@cpm/weex-vue-loader",
+  "name": "@cpm/core-loader",
   "peerDependencies": {
     "css-loader": "*"
   },
